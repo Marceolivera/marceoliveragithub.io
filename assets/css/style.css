@@ -1,0 +1,10 @@
+html {
+    scroll-behavior: smooth;
+  }
+  body   {    background-color: black;
+  } 
+.card {background-color: rgb(37, 207, 250);}
+.col-sm-2 {color: white;}
+.btn {width: 20;}
+.colFormLabelLg {width: 20; height: 400;}
+.hola {text-align: justify;}
